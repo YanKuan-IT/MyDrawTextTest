@@ -14,4 +14,22 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
+
+    <com.example.mydrawtexttest.MyDrawTextView2
+        android:layout_alignParentBottom="true"
+        android:id="@+id/my_draw_text_view2_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hello world"
+        android:textSize="30sp"
+        />
+
+    <Button
+        android:id="@+id/change_id"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="change"
+        />
 </RelativeLayout>
