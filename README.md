@@ -9,8 +9,4 @@
 
 <br/><br/>
 
-
-
-
-https://user-images.githubusercontent.com/26439413/150671514-becd1232-47ce-470d-955b-9be391845471.mp4
-
+![changeColor](https://user-images.githubusercontent.com/26439413/150718622-384b0823-b1a6-49e0-9802-cfed1b4719bb.gif)
